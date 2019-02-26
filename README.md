@@ -1,4 +1,3 @@
-EECS 486 Final Project 
 Race, Crime, and Media Bias
 
 This project examines racial bias present in different news outlets. Our dataset consists of 222 articles about crimes committed by people of three ethnicities: Hispanic, White, and Black. 
